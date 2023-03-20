@@ -1,0 +1,30 @@
+- name: Blog
+  link: /blog/
+
+- name: Projects
+  link: /projects/
+
+- name: Skills & Resume
+  link: /resume/
+
+- name: About
+  link: /about/
+
+- name: Site Maintenance Docs
+  link: /docs/
+# - name: Example Pages
+#   link: /#
+#   dropdown:
+#     - name: Landing Page With Callouts
+#       link: /landing/
+    # - name: Sponsors Page
+    #   link: /sponsors/
+    # - name: Image Gallery
+    #   link: /gallery/
+    # - name: Products
+    #   link: /products/
+    # - name: Recipe Page
+    #   link: /example-recipe/
+    # - name: Showcase
+    #   link: /showcase/
+
