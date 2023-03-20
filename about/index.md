@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: Educational, professional and personal background
+subtitle: Educational, Professional and Personal Background
 show_sidebar: false
+hero_image: /img/photos/about.jpg
 ---
 
 Hi there! :wave:
@@ -17,7 +18,7 @@ I am Koushik.
 + B.Sc. in Statistics (2013) - Visva Bharati University, India
 + M.Sc. in Statistics (2015) - Visva Bharati University, India
 
-## :briefcase: Professional history
+## :briefcase: Professional career history
 + BCausE Enterprise Pvt. Ltd. as a Junior Data Analyst (2015 - 2016)
 + IBM India Pvt. Ltd. as a Data Scientist (2016 - 2021)
 + IHS Markit as a Sr. Data Scientist (2021 - 2022)
@@ -35,9 +36,10 @@ I am Koushik.
 + Writing articles on something interesting I learn
 + Teaching
 + Learning and experimenting with different ideas and tools 
++ Cooking - thanks to Covid to discover this new skill :smile:
 
 ## :arrow_right: Follow or have a connection
-+ <img src="/img/icons/mail.svg" width="13" height="13"> [Email](mailto:koushikkhan@gmail.com) (preferred)
-+ <img src="/img/icons/linkedin.svg" width="13" height="13"> [LinkedIn](https://www.linkedin.com/in/koushikkhan/)
-+ <img src="/img/icons/square-twitter.svg" width="13" height="13"> [Twitter](https://twitter.com/koushikKhan92) 
-+ <img src="/img/icons/square-github.svg" width="13" height="13"> [GitHub](https://github.com/koushikkhan) 
++ <img src="/img/icons/mail.svg" width="15" height="15"> [Email](mailto:koushikkhan@gmail.com) (preferred)
++ <img src="/img/icons/linkedin.svg" width="15" height="15"> [LinkedIn](https://www.linkedin.com/in/koushikkhan/)
++ <img src="/img/icons/square-twitter.svg" width="15" height="15"> [Twitter](https://twitter.com/koushikKhan92) 
++ <img src="/img/icons/square-github.svg" width="15" height="15"> [GitHub](https://github.com/koushikkhan) 

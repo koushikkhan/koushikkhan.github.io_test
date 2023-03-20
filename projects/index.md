@@ -1,5 +1,8 @@
 ---
 layout: page
-title: Personal projects
+title: Personal Projects
 show_sidebar: false
+hero_image: /img/photos/projects.jpg
 ---
+
+Links to my personal projects are coming soon.
