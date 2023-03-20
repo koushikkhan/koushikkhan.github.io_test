@@ -4,3 +4,7 @@ build: Gemfile
 
 serve:
 	bundle exec jekyll serve
+
+clean:
+	rm -rf .jekyll-cache
+	rm -rf _site
