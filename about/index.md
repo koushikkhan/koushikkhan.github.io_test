@@ -10,7 +10,7 @@ Hi there! :wave:
 I am Koushik.
 
 
-<img src="/website/img/photos/self.jpg" width="400" height="400">
+<img src="/img/photos/self.jpg" width="400" height="400">
 <figcaption>Photo taken in 2022 at Nandi Hills, Bangalore, India</figcaption>
 
 ## :man_student: Education
@@ -37,7 +37,7 @@ I am Koushik.
 + Learning and experimenting with different ideas and tools 
 
 ## :arrow_right: Follow or have a connection
-+ <img src="/website/img/icons/mail.svg" width="13" height="13"> [Email](mailto:koushikkhan@gmail.com) (preferred)
-+ <img src="/website/img/icons/linkedin.svg" width="13" height="13"> [LinkedIn](https://www.linkedin.com/in/koushikkhan/)
-+ <img src="/website/img/icons/square-twitter.svg" width="13" height="13"> [Twitter](https://twitter.com/koushikKhan92) 
-+ <img src="/website/img/icons/square-github.svg" width="13" height="13"> [GitHub](https://github.com/koushikkhan) 
++ <img src="/img/icons/mail.svg" width="13" height="13"> [Email](mailto:koushikkhan@gmail.com) (preferred)
++ <img src="/img/icons/linkedin.svg" width="13" height="13"> [LinkedIn](https://www.linkedin.com/in/koushikkhan/)
++ <img src="/img/icons/square-twitter.svg" width="13" height="13"> [Twitter](https://twitter.com/koushikKhan92) 
++ <img src="/img/icons/square-github.svg" width="13" height="13"> [GitHub](https://github.com/koushikkhan) 

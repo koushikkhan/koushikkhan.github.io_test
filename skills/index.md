@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Skills and Expertises
+title: Skills and expertises
 show_sidebar: false
 ---
 
@@ -21,7 +21,7 @@ Along the journey in my career, I have worked on various projects, all of them m
     + Building data pipeline - AWS, R, ShellScript
 
 
-You can find my latest resume [here](/website/assets/pdf/koushik_khan_resume_one_page.pdf).
+You can find my latest resume [here](/assets/pdf/koushik_khan_resume_one_page.pdf).
 
 
 

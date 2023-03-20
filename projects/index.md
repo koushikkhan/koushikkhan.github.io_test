@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Personal Projects
-subtitle: Things I have learnt in my Career
+title: Personal projects
 show_sidebar: false
 ---

@@ -4,14 +4,12 @@
 - name: Projects
   link: /projects/
 
-- name: Skills & Resume
-  link: /resume/
+- name: Skills
+  link: /skills/
 
 - name: About
   link: /about/
 
-- name: Site Maintenance Docs
-  link: /docs/
 # - name: Example Pages
 #   link: /#
 #   dropdown:
