@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skills and expertises
+title: Skills and Expertises
 show_sidebar: false
 use_math: true
 hero_image: /img/photos/skills.jpg
