@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: Educational, professional and personal background
+subtitle: Educational, Professional and Personal Background
 show_sidebar: false
+hero_image: /img/photos/about.jpg
 ---
 
 Hi there! :wave:
