@@ -8,7 +8,7 @@ description:
 baseurl: ""
 url: 
 permalink: pretty
-favicon: /icons8-die-32.png
+favicon: /favicon.png
 # gh_sponsor: chrisrhymes
 # hide_share_buttons: true
 # theme_color: '#eeeeee'
