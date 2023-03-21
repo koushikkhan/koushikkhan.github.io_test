@@ -6,8 +6,12 @@ title: "Testing of Hypotheses: A Quick Refresher"
 author: "Koushik"
 date: 2023-03-19
 # categories: [statistics]
-image: "/img/posts/hyp-testing/susan-holt-simpson-GQ327RPuxhI-unsplash.jpg"
 show_sidebar: false
+image: "/img/posts/hyp-testing/susan-holt-simpson-GQ327RPuxhI-unsplash.jpg"
+hero_image: "/img/posts/hyp-testing/susan-holt-simpson-GQ327RPuxhI-unsplash.jpg"
+hero_height: is-medium
+hero_darken: true
+tags: statistics
 ---
 
 ## Motivation:

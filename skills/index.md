@@ -4,6 +4,7 @@ title: Skills and Expertises
 show_sidebar: false
 use_math: true
 hero_image: /img/photos/skills.jpg
+hero_darken: true
 ---
 
 Along the journey in my career, I have worked on various projects, all of them may not be worth of mentioning. I have handpicked few of them here along with the tools and methodologies used.

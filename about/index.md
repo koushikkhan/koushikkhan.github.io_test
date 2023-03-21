@@ -4,6 +4,7 @@ title: About
 subtitle: Educational, Professional and Personal Background
 show_sidebar: false
 hero_image: /img/photos/about.jpg
+hero_darken: true
 ---
 
 Hi there! :wave:
