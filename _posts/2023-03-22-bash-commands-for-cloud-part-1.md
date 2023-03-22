@@ -171,7 +171,7 @@ the terminal. For me the pwd is `/home/koushik/`
 
 #### :point_right: The `ls` command
 
-`ls` stands for listing, which returns all the files and directories
+`ls` stands for listing, which returns names of all the files and directories
 (folders) availble inside the `pwd`.
 
 ``` python
@@ -182,7 +182,7 @@ the terminal. For me the pwd is `/home/koushik/`
     bash-commands-for-cloud.md     my_first_file.txt   test_dir
     bash-commands-for-cloud.qmd    my_second_file.txt
 
-Note that `ls` only returns the files and directories which are not
+Note that `ls` only returns the names of files and directories which are not
 hidden, this is the default behavior of `ls`, if you want to see
 something more you need some other options while using it, which are
 often called flags.
@@ -478,4 +478,4 @@ cat -n records.txt
          3  Wed Mar 22 17:23:25 IST 2023
 
 
-That's all for the part 1. I hope you will enjoy reading it and also stay tuned for the next part.
+That's all for the part 1. I hope you have enjoyed reading the post, stay tuned for the next part.
