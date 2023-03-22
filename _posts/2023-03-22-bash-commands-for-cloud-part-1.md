@@ -389,8 +389,7 @@ Writing same data to multiple files is also very intuitive as in
 
 The same operations can also be performed using redirect operator `>`.
 `date > record.txt` will write the system date time by overrwriting the
-file and `date >> record.txt` will write by keeping the previous records
-in the file.
+file and `date >> record.txt` will write the data to the file in append mode.
 
 A file can be removed using the `rm` command, e.g. `rm record.txt`
 
@@ -434,7 +433,7 @@ with `ls` through a pipe operator as if we are telling bash to filter
 the `ls` output by the pattern. See the examples below,
 
 ``` python
-# will only show files and directories with thw word 'first' in their names 
+# will only show files and directories with the word 'first' in their names 
 !ls -lahts | grep first
 ```
 
