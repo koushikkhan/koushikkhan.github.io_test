@@ -3,7 +3,7 @@ layout: post
 # comments: true
 use_math: false
 title: "Bash Commands to Get Started on Linux Clouds"
-subtitle: "Part 1: Basic"
+subtitle: "Part 1: Basics"
 author: "Koushik"
 date: 2023-03-22
 # categories: [statistics]
