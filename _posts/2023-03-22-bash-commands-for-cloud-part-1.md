@@ -3,7 +3,7 @@ layout: post
 # comments: true
 use_math: false
 title: "Bash Commands to Get Started on Linux Clouds"
-subtitle: "Part 1"
+subtitle: "Part 1: Basic"
 author: "Koushik"
 date: 2023-03-22
 # categories: [statistics]
@@ -253,7 +253,7 @@ created
 
 `-s` flag is used for showing the allocated sizes of the files
 
-You can definitely combine multiple flags together just by putting the
+You can definitely combine multiple flags together just by putting them
 next to each other like below and obviously you will get the combined
 effect of them
 
