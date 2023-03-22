@@ -3,7 +3,7 @@ layout: post
 # comments: true
 use_math: false
 title: "Bash Commands to Get Started on Linux Clouds"
-subtitle: "Part 1"
+subtitle: "Part 1: Basics"
 author: "Koushik"
 date: 2023-03-22
 # categories: [statistics]
@@ -171,7 +171,7 @@ the terminal. For me the pwd is `/home/koushik/`
 
 #### :point_right: The `ls` command
 
-`ls` stands for listing, which returns all the files and directories
+`ls` stands for listing, which returns names of all the files and directories
 (folders) availble inside the `pwd`.
 
 ``` python
@@ -182,7 +182,7 @@ the terminal. For me the pwd is `/home/koushik/`
     bash-commands-for-cloud.md     my_first_file.txt   test_dir
     bash-commands-for-cloud.qmd    my_second_file.txt
 
-Note that `ls` only returns the files and directories which are not
+Note that `ls` only returns the names of files and directories which are not
 hidden, this is the default behavior of `ls`, if you want to see
 something more you need some other options while using it, which are
 often called flags.
@@ -253,7 +253,7 @@ created
 
 `-s` flag is used for showing the allocated sizes of the files
 
-You can definitely combine multiple flags together just by putting the
+You can definitely combine multiple flags together just by putting them
 next to each other like below and obviously you will get the combined
 effect of them
 
@@ -389,8 +389,7 @@ Writing same data to multiple files is also very intuitive as in
 
 The same operations can also be performed using redirect operator `>`.
 `date > record.txt` will write the system date time by overrwriting the
-file and `date >> record.txt` will write by keeping the previous records
-in the file.
+file and `date >> record.txt` will write the data to the file in append mode.
 
 A file can be removed using the `rm` command, e.g. `rm record.txt`
 
@@ -434,7 +433,7 @@ with `ls` through a pipe operator as if we are telling bash to filter
 the `ls` output by the pattern. See the examples below,
 
 ``` python
-# will only show files and directories with thw word 'first' in their names 
+# will only show files and directories with the word 'first' in their names 
 !ls -lahts | grep first
 ```
 
@@ -478,4 +477,4 @@ cat -n records.txt
          3  Wed Mar 22 17:23:25 IST 2023
 
 
-That's all for the part 1. I hope you will enjoy reading it and also stay tuned for the next part.
+That's all for the part 1. I hope you have enjoyed reading the post, stay tuned for the next part.
